@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MAMA NA MWANA",
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 15,
+    "uniqCompNum": 21,
     "versionPublish": "4.7.8",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -482,7 +482,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "CONTACT",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -625,7 +625,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "MSAADA",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -763,6 +763,14 @@
           "_anchor": "form4-e"
         }
       ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "PRODUCTS",
+        "order": 1
+      },
+      "components": []
     }
   }
 }
